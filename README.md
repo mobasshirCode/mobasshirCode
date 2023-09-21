@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mobasshir Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=mobasshircode&icon=0&color=1" alt="mobasshircode" /> </p>
 <h4 align="center">GitHub Trophies</h4>
 <div align="center">
 
