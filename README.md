@@ -6,7 +6,8 @@
 
 <p> <img src="https://github-profile-trophy.vercel.app/?username=mobasshircode&theme=discord&no-frame=false&no-bg=true&margin-w=65&column=4&title=MultiLanguage,Joined2020,Commits,Followers,Stars,Repositories" /> </p>
 </div>
-- 🔭 I’m currently working on **News App using React**
+
+- 🔭 Currently working on **Anime App using React**
 
 - 🌱 I’m currently learning **React and Tailwind**
 
